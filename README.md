@@ -1,14 +1,14 @@
 # Python AI Backend Developer: Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 📒 Descrição
-Participando do bootcamp Python AI Backend Developer, fui desafiado a explorar IAs Generativas para criar conteúdos o mais realistas possível. De imagens a textos, áudios e vídeos, busquei ser criativo e imergir no mundo das IAs Generativas. Como resultado, produzi um vídeo que simula uma reportagem informativa, destacando as inovações e possibilidades dessa tecnologia fascinante. Confira o resultado dessa jornada de aprendizado e criatividade!
+Participando do bootcamp Python AI Backend Developer, fui desafiado a explorar IAs Generativas para criar conteúdos o mais realista possível. De imagens a textos, áudios e vídeos, busquei ser criativo e imergir no mundo das IAs Generativas. Como resultado, produzi um vídeo falando sobre a importância dos jogos indies. Confira o resultado dessa jornada de aprendizado e criatividade!
 
 ## 🤖 Tecnologias Utilizadas
-- # CHAT-GPT: Geração do roteiro.
-- # VIDENOZ AI: Transcrição de áudio, vídeo e legenda.
+- `ChatGPT`: Geração do roteiro.
+- `Videnoz AI`: Transcrição de áudio, vídeo e legenda.
 
 ## 🧐 Processo de Criação
-Enquanto estava criando esse projeto, pude perceber o quão impressionante é o poder das IAs. Me entusiasma para criar mais e obviamente me ansia para ver como isso vai evoluir para algo melhor ainda. Há muito espaço nesse incrível e fascinante campo das Inteligências Artificiais! Acredito que essas tecnologias têm o potencial de impactar positivamente na vida das pessoas e contribuir para uma sociedade mais inclusiva e conectada.
+No geral, não foi complicado fazer os prompts para conseguir um roteiro inteiro em poucos segundos. Minha maior surpresa foi com o quão simples é fazer algo que, no passado, levaria ao menos algumas horas para produzir. O ChatGPT já é uma IA bem conhecida e já havia utilizado antes, já com o VidenozAI foi algo novo que me apareceu. Sua interface me fez relembrar o Canva, e é simples da mesma maneira! No geral, foi uma experiência gratificante e me deixou animado para criar mais conteúdo sobre diversos temas no futuro!
 
 ## 🚀 Resultados
 [Assista ao vídeo aqui](https://youtu.be/XLJpDdG1TnE)
@@ -31,5 +31,4 @@ Narrador4: "Em resumo, os jogos indie não são apenas uma forma de entretenimen
 Narrador4: "Obrigado por assistir! Se você gostou deste vídeo, não se esqueça de deixar um like e se inscrever para mais conteúdo sobre jogos e cultura geek. Até a próxima!"
 
 ## 💭 Reflexão 
-
-Durante essa jornada explorando as IAs Generativas, pude perceber que ainda há muito espaço para evolução nesse campo fascinante da inteligência artificial. No entanto, fiquei empolgado ao vislumbrar as possíveis melhorias e avanços que podem surgir no futuro. Acredito que essas tecnologias têm o potencial de impactar positivamente a vida das pessoas e contribuir para uma sociedade mais inclusiva e conectada. Estou ansioso para ver como essas inovações continuarão a se desenvolver e como podem ser aplicadas para beneficiar a humanidade como um todo.
+Enquanto estava criando esse projeto, pude perceber o quão impressionante é o poder das IAs. Me entusiasma para criar mais e obviamente me ansia para ver como isso vai evoluir para algo melhor ainda. Há muito espaço nesse incrível e fascinante campo das Inteligências Artificiais! Acredito que essas tecnologias têm o potencial de impactar positivamente na vida das pessoas e contribuir para uma sociedade mais inclusiva e conectada.
