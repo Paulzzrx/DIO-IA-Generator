@@ -1,51 +1,35 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Python AI Backend Developer: Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Participando do bootcamp Python AI Backend Developer, fui desafiado a explorar IAs Generativas para criar conteúdos o mais realistas possível. De imagens a textos, áudios e vídeos, busquei ser criativo e imergir no mundo das IAs Generativas. Como resultado, produzi um vídeo que simula uma reportagem informativa, destacando as inovações e possibilidades dessa tecnologia fascinante. Confira o resultado dessa jornada de aprendizado e criatividade!
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- # CHAT-GPT: Geração do roteiro.
+- # VIDENOZ AI: Transcrição de áudio, vídeo e legenda.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Enquanto estava criando esse projeto, pude perceber o quão impressionante é o poder das IAs. Me entusiasma para criar mais e obviamente me ansia para ver como isso vai evoluir para algo melhor ainda. Há muito espaço nesse incrível e fascinante campo das Inteligências Artificiais! Acredito que essas tecnologias têm o potencial de impactar positivamente na vida das pessoas e contribuir para uma sociedade mais inclusiva e conectada.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Assista ao vídeo aqui](https://youtu.be/XLJpDdG1TnE)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
+### Texto usado:
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Narrador1: "Você já ouviu falar sobre jogos indie? São aqueles produzidos de forma independente, muitas vezes por pequenas equipes de desenvolvedores apaixonados. Mas você sabia que esses jogos têm um papel fundamental na indústria de games?"
 
-## Links Interessantes
+Narrador1: "Nos últimos anos, vimos um boom nos jogos AAA, com orçamentos milionários e produções de alto nível. No entanto, essa corrida pelo realismo muitas vezes deixou de lado a inovação e a criatividade."
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+Narradora2: "É aqui que os jogos indie entram em cena. Com liberdade criativa e menor pressão comercial, os desenvolvedores independentes podem explorar novas ideias, experimentar mecânicas únicas e contar histórias emocionantes."
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Narrador3: "Além disso, os jogos indie oferecem uma diversidade de experiências que muitas vezes não são encontradas nos jogos mainstream. Desde narrativas íntimas até desafios de gameplay inovadores, há algo para todos os gostos."
+
+Narrador3: "O sucesso de jogos indie como 'Celeste', 'Hollow Knight' e 'Undertale' mostra que esses títulos podem não apenas competir com os grandes, mas também inspirar mudanças na indústria como um todo."
+
+Narrador4: "Em resumo, os jogos indie não são apenas uma forma de entretenimento, são uma fonte de inovação, diversidade e inspiração. Então, da próxima vez que você estiver procurando por uma experiência única, dê uma chance aos jogos indie. Quem sabe você não descobre seu novo jogo favorito?"
+
+Narrador4: "Obrigado por assistir! Se você gostou deste vídeo, não se esqueça de deixar um like e se inscrever para mais conteúdo sobre jogos e cultura geek. Até a próxima!"
+
+## 💭 Reflexão 
+
+Durante essa jornada explorando as IAs Generativas, pude perceber que ainda há muito espaço para evolução nesse campo fascinante da inteligência artificial. No entanto, fiquei empolgado ao vislumbrar as possíveis melhorias e avanços que podem surgir no futuro. Acredito que essas tecnologias têm o potencial de impactar positivamente a vida das pessoas e contribuir para uma sociedade mais inclusiva e conectada. Estou ansioso para ver como essas inovações continuarão a se desenvolver e como podem ser aplicadas para beneficiar a humanidade como um todo.
